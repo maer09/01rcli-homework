@@ -1,5 +1,5 @@
 use clap::Parser;
-use rcil::{Cli, CmdExecutor};
+use rcli::{Cli, CmdExecutor};
 
 /// Main Function
 #[tokio::main]
